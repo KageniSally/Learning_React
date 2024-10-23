@@ -1,0 +1,15 @@
+div{
+    padding: 10px 0;
+    background-color: #C5705D;
+    width: 100%;
+}
+ul{
+    display:flex;
+justify-content: space-evenly;
+list-style-type: none;
+    background-color: rgba(240, 248, 255, 0);
+}
+a{
+    color:white;
+    text-decoration: none;
+}

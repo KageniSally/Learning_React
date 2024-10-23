@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Lato", serif;
+}
+.wrapper{
+  background-color: #DFD3C3;
+  width: 100%;
+  min-height: 100vh;
+}
+h1{
+  font-size: 35px;
+  font-family: "Playfair", serif;
+  color: #C5705D;
+}

@@ -1,5 +1,6 @@
 # E-commerce Website
 This project is an e-commerce website built with React. It serves as my learning platform for mastering React, starting from the basics and progressing to more advanced concepts. As I continue to improve and add more features, the project will evolve from a simple static website to a fully functional e-commerce platform.
+![home](https://github.com/user-attachments/assets/69312d2e-0c8d-4133-8dbf-509396931a6f)
 
 ## Project Overview
 This project demonstrates the development of a modern e-commerce website with features such as:

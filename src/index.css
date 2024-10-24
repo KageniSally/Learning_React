@@ -13,3 +13,13 @@ h1{
   font-family: "Playfair", serif;
   color: #C5705D;
 }
+p{
+  font-size:14px;
+}
+i{
+font-size:14px;
+color:#A02334;
+}
+.active{
+  background-color: white;
+}
